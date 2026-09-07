@@ -147,20 +147,6 @@ All commits preserved!
 
 ***
 
-## 📊 Grading Rubric
-
-| Criteria | Points | Description |
-|----------|--------|-------------|
-| **Part 1: Recovery** | 5 | Successfully recovered lost commits using reflog |
-| **Part 2: Rework** | 5 | Modified old commit without losing new work |
-| **Part 3: Exploration** | 3 | Documented 5+ reflog movements correctly |
-| **Part 4: Challenge** | (Bonus) | Completed multiple recovery scenario |
-| **Documentation** | 3 | Clear screenshots, explanations, and GitHub links |
-| **Code Quality** | 2 | Meaningful commit messages, clean branch names |
-| **Total** | **15 + 2 Bonus** | |
-
-***
-
 ## 💡 Tips for Success
 
 1. **Take screenshots at each step** - Don't wait until the end!
@@ -175,9 +161,8 @@ All commits preserved!
 ## 🔗 Resources
 
 - [Git Reflog Documentation](https://git-scm.com/docs/git-reflog)
-- [Git Tools - Revision Selection]([https://git-scm.com/book/en/v2/Git-Tools-Revision-Selection](https://github.com/codinggita/CGXSwarrnim/blob/main/Semester-1/Git%20%26%20GitHub/18.%20Git%20Reflog%20%26%20Recovery/Notes.md))
-- [Class Notes: Day 18](link-to-notes)
-- 
+- [Git Tools - Revision Selection](https://git-scm.com/book/en/v2/Git-Tools-Revision-Selection)
+- [Class Notes: Day 18](https://github.com/codinggita/CGXSwarrnim/blob/main/Semester-1/Git%20%26%20GitHub/18.%20Git%20Reflog%20%26%20Recovery/Notes.md)
 
 ***
 
