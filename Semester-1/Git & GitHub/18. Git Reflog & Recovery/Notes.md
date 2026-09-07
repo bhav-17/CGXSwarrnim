@@ -476,4 +476,4 @@ Final:  C0 ─ C3 ─┐
 
 ***
 
-**Pro Tip:** Print these diagrams or keep them as reference while practicing! Visual understanding makes Git much easier! 📊✨
+**Pro Tip:** Draw these diagrams or keep them as reference while practicing! Visual understanding makes Git much easier! 📊✨
