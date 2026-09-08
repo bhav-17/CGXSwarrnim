@@ -196,7 +196,7 @@ stash@{1}:
  README.md  | 2 ++
 ```
 
-**Student question:**  
+**Question:**  
 Which stash contains `index.html`? How can you tell from `git stash show`?
 
 ***
