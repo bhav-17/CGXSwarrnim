@@ -13,9 +13,9 @@ By completing this assignment, you will learn how to:
 
 ---
 
-## Part A: Solo Work (Lightweight Tags)
+## Part A: Lightweight Tags
 
-1. Create a new repository or use your existing practice repository.
+1. Create a new repository.
 2. Make at least **3 commits** on the `main` branch.
 3. Create **Lightweight tags** on these commits as personal bookmarks.  
    Example names:
@@ -30,7 +30,7 @@ By completing this assignment, you will learn how to:
 
 ---
 
-## Part B: Collaborative Style (Annotated Tags)
+## Part B: Annotated Tags
 
 Now imagine 2-3 developers have joined your project. From now on, use only **Annotated tags**.
 
