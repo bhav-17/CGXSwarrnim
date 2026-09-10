@@ -13,7 +13,38 @@ By completing this assignment, you will learn how to:
 
 ---
 
-## Part A: Lightweight Tags
+## Question 1:
+
+Explain the following in your own words:
+
+1. What is the difference between a **Branch** and a **Tag** in Git?
+2. What is the difference between a **Lightweight Tag** and an **Annotated Tag**?
+3. Why should we prefer Annotated tags in professional/collaborative projects?
+4. What is Semantic Versioning? Explain with examples of `v1.0.0`, `v1.1.0`, and `v1.1.1`.
+
+---
+
+
+## Question 2:
+
+Perform the following tasks in your repository and submit screenshots:
+
+1. Create at least 4 commits on the `main` branch.
+2. Create two **Lightweight tags** on any two commits (as personal bookmarks).
+3. Create three **Annotated tags** with proper Semantic Versioning:
+   - `v1.0.0`
+   - `v1.1.0`
+   - `v1.1.1`
+4. Push all annotated tags to GitHub.
+5. Create **GitHub Releases** for `v1.0.0` and `v1.1.0`.
+
+## Question 3:
+
+**Scenario:**
+
+You are working on a project. Initially you were working alone, so you created lightweight tags as personal bookmarks. Later, two more developers joined the project. Now you need to follow professional standards.
+
+### Part A: Lightweight Tags
 
 1. Create a new repository.
 2. Make at least **3 commits** on the `main` branch.
@@ -30,7 +61,7 @@ By completing this assignment, you will learn how to:
 
 ---
 
-## Part B: Annotated Tags
+### Part B: Annotated Tags
 
 Now imagine 2-3 developers have joined your project. From now on, use only **Annotated tags**.
 
@@ -72,7 +103,7 @@ Now imagine 2-3 developers have joined your project. From now on, use only **Ann
 
 ---
 
-## Part C: Push to GitHub
+### Part C: Push to GitHub
 
 1. Push the `main` branch:
    ```bash
@@ -94,7 +125,7 @@ Now imagine 2-3 developers have joined your project. From now on, use only **Ann
 
 ---
 
-## Part D: Create GitHub Releases
+### Part D: Create GitHub Releases
 
 1. Go to your repository on GitHub.
 2. Click on **Releases** → **Draft a new release**.
@@ -122,19 +153,6 @@ Submit the following:
 
 ---
 
-## Evaluation Criteria
-
-| Criteria                              | Marks |
-|---------------------------------------|-------|
-| Lightweight tags created correctly    | 10    |
-| Annotated tags created correctly      | 20    |
-| Proper Semantic Versioning used       | 15    |
-| Tags pushed to GitHub                 | 15    |
-| GitHub Releases created               | 20    |
-| Screenshots + Repository link         | 20    |
-| **Total**                             | 100   |
-
----
 
 **Note:**  
 - Use only **Annotated tags** for versions `v1.0.0`, `v1.1.0`, and `v1.1.1`.
