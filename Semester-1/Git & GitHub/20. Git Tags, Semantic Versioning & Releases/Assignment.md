@@ -1,8 +1,6 @@
 
 # Assignment – Git Tags, Sematic Versioning & Releases
 
-### Day 20
-
 ---
 
 ## Objective
