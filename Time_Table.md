@@ -66,6 +66,7 @@
 | 1:00–2:00  | Break                 | 1:00–2:00  | Break                 |
 | 2:00–3:00   | Javascript (Nikhil Sir)      | 2:00–3:00   | Github(Saurav sir)     |
 | 3:00–4:00   | Github(Saurav sir)     | 3:00–4:00   | Javascript (Nikhil Sir)       |
+| 4:15–6:30   | Industry Readiness      | 4:15–6:00   | Industry Readiness      |
 
 
 ## 25 September (Friday) (SU)
